@@ -1,4 +1,4 @@
-👋 Hi～
+👋 Hi, I’m Gavin!
 <!---
 - 👋 Hi, I’m @GavinBirkhoff
 - 👀 I’m interested in ...
@@ -8,6 +8,18 @@
 --->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GavinBirkhoff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### :technologist: About Me :
+
+I've been in love programming very much!
+
+ 🌐 Languages : English, Chinese
+
+
+
+
+
+
 
 <!---
 GavinBirkhoff/GavinBirkhoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
